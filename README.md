@@ -13,13 +13,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<div align="left" style="color: lightgreen;">
-Skills
-</div>
-
-
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
+<h1 align="center" class="typewriter"> Skills Negro</h1>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>    
 
 
 <!--
