@@ -43,9 +43,10 @@
 
 <h1 align="center" class="typewriter" style="color:green;">Version Controlers</h1>
 <div>
-  <img width="50" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="50" rc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
-</div>    
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+</div>
+
 <!--
 **programador-negro/programador-negro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
