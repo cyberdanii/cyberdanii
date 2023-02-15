@@ -29,14 +29,14 @@
 </div>    
           
 <h1 align="center" class="typewriter" style="color:green;">Data Bases</h1>
-<div>
+<div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />        
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div>    
 
 <h1 align="center" class="typewriter" style="color:green;">OS</h1>
-<div>
+<div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />          
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
