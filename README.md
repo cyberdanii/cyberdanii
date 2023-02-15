@@ -27,6 +27,7 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50" src="https://d33wubrfki0l68.cloudfront.net/20f44190801d93434031e849f6f436c72c86f067/1ae72/assets/svg/airflow-icon.svg" />
+  <img width="50" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" />
 </div>    
           
 <h1 align="center" class="typewriter" style="color:green;">Data Bases</h1>
