@@ -26,7 +26,7 @@
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img width="50" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" />
+  <img width="50" src="https://d33wubrfki0l68.cloudfront.net/20f44190801d93434031e849f6f436c72c86f067/1ae72/assets/svg/airflow-icon.svg" />
 </div>    
           
 <h1 align="center" class="typewriter" style="color:green;">Data Bases</h1>
