@@ -42,7 +42,7 @@
 </div>
 
 <h1 align="center" class="typewriter" style="color:green;">Version Controlers</h1>
-<div>
+<div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
 </div>
