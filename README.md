@@ -13,9 +13,10 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center" class="typewriter"> Skills Negro</h1>
+<h1 align="center" class="typewriter" style="color:green;"> Skills</h1>
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  [![forthebadge python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 </div>    
 
 
