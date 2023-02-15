@@ -16,14 +16,14 @@
   <img width="50" marging-w="10" style="margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />    
 </div>    
 
 <h1 align="center" class="typewriter" style="color:green;">Frameworks</h1>
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
   <img width="50" src="https://d33wubrfki0l68.cloudfront.net/20f44190801d93434031e849f6f436c72c86f067/1ae72/assets/svg/airflow-icon.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50" src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" />
 </div>    
           
