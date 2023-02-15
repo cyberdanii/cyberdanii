@@ -26,6 +26,7 @@
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img width="50" src="https://pbs.twimg.com/profile_images/1176455256869412866/Xu7llkL3_400x400.png" />
 </div>    
           
 <h1 align="center" class="typewriter" style="color:green;">Data Bases</h1>
