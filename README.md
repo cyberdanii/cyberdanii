@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<h1 align="center" class="typewriter" style="color:green;"> Skills</h1>
+<h1 align="center" class="typewriter" style="color:green;">Tech Stack</h1>
 <div align="center">
   <img width="50" marging-w="10" style="margin:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -41,6 +41,11 @@
           
 </div>
 
+<h1 align="center" class="typewriter" style="color:green;">Version Controlers</h1>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+</div>    
 <!--
 **programador-negro/programador-negro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
