@@ -43,7 +43,7 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
           
 </div>
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="50" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S" />
 <!--
 **programador-negro/programador-negro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
