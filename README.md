@@ -62,7 +62,7 @@
 </td>
 <td>
 <a href="https://www.youtube.com/watch?v=gFNVVMssIT0&t=520s">
-<img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
+<img src="http://i3.ytimg.com/vi/JhaD7lNWQ48/hqdefault.jpg">
 </a>
 </td>
 </table>
