@@ -56,12 +56,12 @@
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=JhaD7lNWQ48">
+<img src="http://i3.ytimg.com/vi/JhaD7lNWQ48/hqdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
+<a href="https://www.youtube.com/watch?v=gFNVVMssIT0&t=520s">
 <img src="http://i3.ytimg.com/vi/-pWSQYpkkjk/maxresdefault.jpg">
 </a>
 </td>
