@@ -53,7 +53,7 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </div>
 
-<h1 align="center" class="typewriter" style="color:green;">Some videos made by me</h1>
+<h1 align="center" class="typewriter" style="border: 0px;">Some videos made by me</h1>
 <table style="width:100%">
 <tr>
 <td>
