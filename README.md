@@ -108,7 +108,4 @@ Here are some ideas to get you started:
 </style>
 
 -->
-
-
-Last update 2023-07-28 \n
-\nLast update 2023-07-28
+Last update 2023-07-28
