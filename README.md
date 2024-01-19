@@ -15,6 +15,9 @@
   <br>
 
 <div id="badges" align="center">
+  <a href="https://gist.github.com/programador-negro">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Gist"/>
+  </a>
   <a href="https://www.youtube.com/channel/UC-Q7vhxC4XNH3WybaCiPiOQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
