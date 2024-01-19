@@ -1,18 +1,16 @@
 <h1 align="center" class="typewriter">Programador Negro</h1>
-
-<picture>
+<div id="header" align="center" width="100%">
+  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=programador-negro&show_icons=true&theme=gotham"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=programador-negro&show_icons=true"
-    media="(prefers-color-scheme: gotham), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=programador-negro&show_icons=true&theme=gotham"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=programador-negro&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=programador-negro&show_icons=true&theme=gotham" />
 </picture>
-
-<div id="header" align="center" width="100%">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODY1M2JjNDhhMjMzMWUyZmNkYjRjZjQxZmU5ODM3NTdjNjI1ZjRiMyZjdD1n/5tdpB5x3FzD3iNcLgh/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
