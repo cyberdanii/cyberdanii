@@ -15,7 +15,7 @@
   <br>
 
 <div id="badges" align="center">
-  <a href="https://gist.github.com/programador-negro">
+  <a href="https://gist.github.com/daniexperience">
     <img src="https://img.shields.io/badge/Gists-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Gist"/>
   </a>
   <a href="https://www.youtube.com/channel/UC-Q7vhxC4XNH3WybaCiPiOQ">
@@ -81,7 +81,7 @@
 </table>
 
 <!--
-**programador-negro/programador-negro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniexperience/daniexperience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
